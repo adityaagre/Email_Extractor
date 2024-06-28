@@ -1,0 +1,1 @@
+# %pip install --upgrade --quiet  langchain langchain-community langchainhub langchain-openai langchain-chroma bs4
