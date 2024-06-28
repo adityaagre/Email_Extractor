@@ -1,0 +1,15 @@
+[00:00.000 --> 00:05.000]  The email ids with my teammates are as follows
+[00:05.000 --> 00:09.000]  JohnDoe123 at the rate gmail dot com
+[00:09.000 --> 00:12.000]  Sarah Smith 456 at the rate yahoo dot com
+[00:12.000 --> 00:16.000]  Mike Brown 789 at the rate hotmail dot com
+[00:16.000 --> 00:20.000]  Emily Jones 101 at the rate gmail dot com
+[00:20.000 --> 00:23.000]  David Wilson triple 2 at the rate yahoo dot com
+[00:23.000 --> 00:27.000]  Lisa Jackson triple 3 at the rate hotmail dot com
+[00:27.000 --> 00:31.000]  Chris Roberts triple 4 at the rate gmail dot com
+[00:31.000 --> 00:34.000]  Laura White triple 5 at the rate yahoo dot com
+[00:34.000 --> 00:37.000]  Kevin Miller triple 6 at the rate hotmail dot com
+[00:37.000 --> 00:41.000]  Amanda Jones triple 7 at the rate gmail dot com
+[00:41.000 --> 00:46.000]  Brian Wilson triple 8 at the rate yahoo dot com
+[00:46.000 --> 00:50.000]  Jessica Smith triple 9 at the rate yahoo dot com
+[00:50.000 --> 00:54.000]  Matthew Brown 1010 at the rate gmail dot com
+[00:57.000 --> 01:07.000]  Thanks for watching!

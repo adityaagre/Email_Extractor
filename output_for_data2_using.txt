@@ -1,0 +1,1 @@
+{'First_mail_list': ['aaditya@yahoo.co.uk'], 'At_the_rate_changed_to @': ['aaditya@yahoo.co.uk'], 'Mail ids chosen between at the rate and at the rate replaced': ['aaditya@yahoo.co.uk'], '"Dot" replaced with "."': ['aaditya@yahoo.co.uk'], 'Mails chosen among "dot" and "dot replaced by ."': ['aaditya@yahoo.co.uk'], 'Spaces removed': ['aaditya@yahoo.co.uk']}
